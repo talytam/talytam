@@ -6,7 +6,7 @@
 
 <p>Formada em Recursos Humanos. Infelizmente, não me identifiquei com a área, o que fez com que eu procurasse outras formas de obter a satisfação profissional que eu tanto desejava.</p>
  
-<p>Acabei caindo na área da tecnologia que, para minha surpresa, me abraçou de forma muito carinhosa. Hoje, curso Análise e Desenvolvimento de Sistemas e sou admin voluntária no canal da comunidade <a href="https://t.me/CafeinaVagas">@CafeinaVagas</a> e no grupo de chat <a href="https://t.me/CafeinaVagasChat">@CafeinaVagasChat</a>, que tem como objetivo ajudar iniciantes na carreira de TI, com foco em grupos minoritários.</p>
+<p>Acabei caindo na área da tecnologia que, para minha surpresa, me abraçou de forma muito carinhosa. Hoje, curso Análise e Desenvolvimento de Sistemas e faço cursos livres para me manter atualizada.</p>
  
 
 <h2 align="left">Linguagens e ferramentas:</h2>

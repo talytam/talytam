@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/38868433/200930328-350cff5b-2d0b-44b2-b54e-13671376be80.png" align="left" alt="Ilustração feita para mim">
+<img src="https://github.com/talytam/talytam/assets/38868433/23b5bdd4-762e-4173-ba5b-4caea77f1b7c" align="left" alt="Ilustração feita para mim">
 
 <p align="right"> 
 <h1>Olá! Tudo bem?</h1>

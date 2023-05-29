@@ -2,12 +2,7 @@
 
 <p align="right"> 
 <h1>Olá! Tudo bem?</h1>
-<p>Meu nome é Talyta Moysa, tenho 28 anos e moro no Paraná. Sou apaixonada por tecnologia, games, marvel, documentários e pixel art.</p>
-
-<p>Formada em Recursos Humanos. Infelizmente, não me identifiquei com a área, o que fez com que eu procurasse outras formas de obter a satisfação profissional que eu tanto desejava.</p>
- 
-<p>Acabei caindo na área da tecnologia que, para minha surpresa, me abraçou de forma muito carinhosa. Hoje, curso Análise e Desenvolvimento de Sistemas e faço cursos livres para me manter atualizada.</p>
- 
+<p>Uma entusiasta da tecnologia e apaixonada por games, o universo Marvel, documentários e pixel art. Decidi seguir minha paixão na área de tecnologia e encontrei minha vocação na qualidade de software.</p>
 
 <h2 align="left">Linguagens e ferramentas:</h2>
 
@@ -27,12 +22,5 @@
 ##
 
 <p align="left">
-Sinta-se à vontade para entrar em contato comigo para conversarmos sobre qualquer coisa!
-<p><a href="https://www.instagram.com/taly.moy/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/taly.moy"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/talytamoy/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=white8&link=https://www.linkedin.com/in/talytamoy"/>
-  </a>
+Estou sempre em busca de aprendizado e atualização, buscando conexões e oportunidades para crescer profissionalmente. Se você também é apaixonado por tecnologia, vamos trocar ideias e evoluir juntos!
 </p>

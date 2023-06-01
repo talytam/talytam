@@ -1,4 +1,4 @@
-<img src="https://github.com/talytam/talytam/assets/38868433/c1b56765-b607-4c2f-829d-970a4520afc5" align="right" alt="relatorio de bugs">
+<img src="https://github.com/talytam/talytam/assets/38868433/c1b56765-b607-4c2f-829d-970a4520afc5" height="400" width="400" align="right" alt="relatorio de bugs">
 
 <p align="right"> 
 <h1>Olá! Tudo bem? <img src="https://github.com/talytam/talytam/assets/38868433/409e8a28-ed0f-4f29-a95b-6021727aa404"></h1>

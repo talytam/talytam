@@ -6,7 +6,7 @@
 
 <h2 align="left">Linguagens e ferramentas:</h2>
 
-###
+
 
 <div align="left">
 <p align="left">
@@ -16,7 +16,6 @@
 </p>
 </div>
 
-###
 
 ##
 

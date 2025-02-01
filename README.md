@@ -7,7 +7,6 @@
 <h2 align="left">Linguagens e ferramentas:</h2>
 
 
-
 <div align="left">
 <p align="left">
   <a href="https://skillicons.dev">
@@ -16,8 +15,6 @@
 </p>
 </div>
 
-
-##
 
 <p align="left">
 Estou sempre em busca de aprendizado e atualização, buscando conexões e oportunidades para crescer profissionalmente. Se você também é apaixonado por tecnologia, vamos trocar ideias e evoluir juntos! <img src="https://github.com/talytam/talytam/assets/38868433/3640db22-cba0-46ab-8449-08f1464c7dbf">

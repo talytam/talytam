@@ -1,42 +1,25 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,45:2D1F2D,100:4A2E35&height=145&section=header"/>
+
 <div align="center">
 
-# Olá! Eu sou a Talyta 👋
-
-### QA | Analista de Testes de Software
-
-**Web • Mobile • Qualidade de Software • Automação**
-
-<br>
-
-![Software Testing](https://img.shields.io/badge/Software%20Testing-243447?style=for-the-badge)
-![Web](https://img.shields.io/badge/Web%20Testing-344E41?style=for-the-badge)
-![Mobile](https://img.shields.io/badge/Mobile%20Testing-3A5A40?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Test%20Automation-588157?style=for-the-badge)
+![Web](https://img.shields.io/badge/WEB-2D1F2D?style=for-the-badge&logo=googlechrome&logoColor=F3D5D8)
+![Mobile](https://img.shields.io/badge/MOBILE-3A2532?style=for-the-badge&logo=android&logoColor=F3D5D8)
+![API](https://img.shields.io/badge/API-4A2E35?style=for-the-badge&logo=postman&logoColor=F3D5D8)
+![Automation](https://img.shields.io/badge/AUTOMAÇÃO-5B3740?style=for-the-badge&logo=cypress&logoColor=F3D5D8)
 
 </div>
 
----
+<br>
 
 ## 👩‍💻 Sobre mim
 
-Sou profissional de **Qualidade de Software**, atuando na validação de aplicações **Web e Mobile (Android/iOS)**, dashboards e plataformas LMS.
+Sou profissional de **Qualidade de Software**, com atuação na validação de aplicações **Web e Mobile (Android/iOS)**, APIs, dashboards e plataformas LMS.
 
-No dia a dia, trabalho com análise de requisitos e regras de negócio, modelagem e execução de cenários de teste, testes exploratórios e regressivos, investigação de comportamentos inesperados e documentação de evidências.
+No dia a dia, trabalho com **análise de requisitos e regras de negócio, modelagem e execução de cenários de teste, testes exploratórios e regressivos, investigação de comportamentos inesperados, registro e reteste de bugs e documentação de evidências**.
 
-Também venho aprofundando meus conhecimentos em **automação de testes, APIs, banco de dados e Inteligência Artificial aplicada à Qualidade**.
+Também atuo na validação de **consistência de dados, filtros, permissões, integrações e comportamentos entre diferentes plataformas**, buscando não apenas identificar defeitos, mas compreender os riscos e impactos das funcionalidades no produto.
 
----
-
-## 🧪 Qualidade & Testes
-
-- Testes funcionais, exploratórios e regressivos
-- Testes Web e Mobile
-- Modelagem e documentação de cenários de teste
-- Análise de requisitos e regras de negócio
-- Investigação, registro e reteste de bugs
-- Validação de dashboards e consistência de dados
-- Testes em Android e iOS
-- Testes de API em projetos de estudo e automação
+Paralelamente, venho ampliando minha atuação técnica em **automação de testes, APIs, banco de dados, CI/CD, testes de performance e Inteligência Artificial aplicada à Qualidade**.
 
 ---
 
@@ -45,54 +28,49 @@ Também venho aprofundando meus conhecimentos em **automação de testes, APIs, 
 ### Automação & Desenvolvimento
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,cypress,git,github,postman&perline=6" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,cypress,git,github,postman,docker&theme=dark&perline=7" />
 </p>
 
-`Cypress` • `Appium` • `WebdriverIO` • `Postman` • `Gherkin` • `Git`
+`Cypress` • `Playwright` • `Appium` • `WebdriverIO` • `Supertest` • `Postman` • `k6`  
+`JavaScript` • `TypeScript` • `Gherkin / BDD` • `Git` • `GitHub Actions` • `Docker`
+
+### Mobile
+
+`Android Studio` • `Xcode` • `TestFlight` • `Appium` • `WebdriverIO`
+
+### API & Dados
+
+`Postman` • `Supertest` • `REST APIs` • `Validação de contratos` • `SQL`
 
 ### Ecossistema de QA
 
-`Jira` • `Confluence` • `Android Studio` • `Xcode / TestFlight` • `Moodle` • `Power BI`
+`Jira` • `Confluence` • `DevTools` • `Miro` • `Moodle / LMS` • `Power BI`
 
 ---
 
-## 📚 Atualmente estudando
+## 🧪 Práticas de Qualidade
 
-- Automação de testes Web com **Playwright + TypeScript**
-- Automação de testes Mobile
-- **API Testing**
-- **SQL aplicado a testes**
-- CI/CD e conceitos de DevOps
-- Inteligência Artificial aplicada à Qualidade de Software
+`Testes Funcionais` • `Exploratórios` • `Regressão` • `Smoke`
 
----
+`Análise de Requisitos` • `Regras de Negócio` • `Modelagem de Testes`
 
-## 📂 Projetos e estudos
+`Partição de Equivalência` • `Valor Limite` • `Tabela de Decisão`
 
-### 🧪 Engenharia de Qualidade de Software — EBAC
-
-Repositório com exercícios e projetos desenvolvidos durante minha formação em Engenharia de Qualidade de Software.
-
-Os estudos percorrem fundamentos e técnicas de teste, metodologias ágeis, Git, Cypress, testes de API, automação REST, DevOps, Android e automação Mobile com Appium.
-
-➡️ [Acessar o repositório](https://github.com/talytam/exercicios-ebac)
+`Investigação de Bugs` • `Retestes` • `Evidências` • `Consistência de Dados`
 
 ---
 
-## 🎯 Em desenvolvimento
+## ◇ Em evolução
 
-Meu objetivo é continuar evoluindo em **Qualidade de Software e Engenharia de Testes**, ampliando minha atuação em automação, APIs, banco de dados e uso de IA como apoio às atividades de QA.
+**Playwright + TypeScript** • Automação Web e Mobile  
+SQL avançado • CI/CD • Performance • IA aplicada à Qualidade
 
 ---
 
 ## 🎮 Fora do QA
 
-Quando não estou testando alguma coisa, provavelmente estou entre **games, universo Marvel, documentários investigativos ou pixel art**.
+Fora do universo de testes, gosto de passar o tempo entre **games, Marvel, documentários investigativos e pixel art**.
 
 <br>
 
-<div align="center">
-
-**Qualidade não é apenas encontrar bugs - é entender o produto, antecipar riscos e contribuir para uma experiência melhor.**
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A2E35,55:2D1F2D,100:121212&height=100&section=footer"/>

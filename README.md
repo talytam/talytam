@@ -31,7 +31,7 @@ Paralelamente, venho ampliando minha atuação técnica em **automação de test
   <img src="https://skillicons.dev/icons?i=javascript,typescript,cypress,git,github,postman,docker&theme=dark&perline=7" />
 </p>
 
-`Cypress` • `Playwright` • `Appium` • `WebdriverIO` • `Supertest` • `Postman` • `k6`  
+`Cypress` • `Appium` • `WebdriverIO` • `Supertest` • `Postman` • `k6`  
 `JavaScript` • `TypeScript` • `Gherkin / BDD` • `Git` • `GitHub Actions` • `Docker`
 
 ### Mobile
@@ -50,7 +50,7 @@ Paralelamente, venho ampliando minha atuação técnica em **automação de test
 
 ## 🧪 Práticas de Qualidade
 
-`Testes Funcionais` • `Exploratórios` • `Regressão` • `Smoke`
+`Testes Funcionais` • `Exploratórios` • `Regressão` • `Testes de Aceitação`
 
 `Análise de Requisitos` • `Regras de Negócio` • `Modelagem de Testes`
 
@@ -63,7 +63,7 @@ Paralelamente, venho ampliando minha atuação técnica em **automação de test
 ## ◇ Em evolução
 
 **Playwright + TypeScript** • Automação Web e Mobile  
-SQL avançado • CI/CD • Performance • IA aplicada à Qualidade
+SQL aplicado a testes • CI/CD • Performance • IA aplicada à Qualidade
 
 ---
 

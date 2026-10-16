@@ -62,8 +62,8 @@ Paralelamente, venho ampliando minha atuação técnica em **automação de test
 
 ## ◇ Em evolução
 
-**Playwright + TypeScript** • Automação Web e Mobile  
-SQL aplicado a testes • CI/CD • Performance • IA aplicada à Qualidade
+**Playwright + TypeScript** • Automação Web  
+Automação Mobile • SQL aplicado a testes • CI/CD • Performance • IA aplicada à Qualidade
 
 ---
 

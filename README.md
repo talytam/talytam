@@ -12,7 +12,11 @@ Web & Mobile (Android/iOS) · APIs · Dashboards · Automação
 
 Atuo em **Qualidade de Software**, com testes de aplicações Web e Mobile, APIs, dashboards e plataformas LMS.
 
-Meu trabalho envolve **análise de requisitos e regras de negócio, modelagem e execução de testes, investigação de defeitos e validação de dados, permissões e integrações**. Também estudo automação e outras práticas de engenharia de qualidade para complementar essa atuação.
+Meu trabalho envolve **análise de requisitos e regras de negócio, modelagem e execução de testes, investigação de defeitos e validação de dados, permissões e integrações**.
+
+Venho desenvolvendo e refinando abordagens de Inteligência Artificial aplicadas à Qualidade de Software, estruturando estratégias de testes exploratórios, oráculos de validação, heurísticas de investigação e critérios de classificação de achados.
+
+Utilizo ferramentas como Claude e Rovo para apoiar a análise de requisitos, investigação de sistemas e dashboards e revisão de cenários de teste, além de realizar experimentações com IA aplicada à automação Web utilizando Playwright.
 
 ## 🛠️ Tecnologias e ferramentas
 

@@ -26,7 +26,7 @@ Utilizo ferramentas como Claude e Rovo para apoiar a análise de requisitos, inv
 
 | Área | Ferramentas e conhecimentos |
 | :--- | :--- |
-| **Automação e desenvolvimento** | JavaScript · TypeScript · Cypress · Gherkin/BDD · k6 · Git · GitHub Actions · Docker |
+| **Automação e desenvolvimento** | JavaScript · TypeScript · Playwright · Cypress · Gherkin/BDD · k6 · Git · GitHub Actions · Docker |
 | **Mobile** | Appium · WebdriverIO · Android Studio · Xcode · TestFlight |
 | **API e dados** | Postman · Supertest · APIs REST · Testes de contrato · SQL |
 | **Ecossistema de QA** | Jira · Confluence · DevTools · Miro · Moodle/LMS · Power BI |

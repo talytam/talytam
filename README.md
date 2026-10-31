@@ -1,76 +1,42 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,45:2D1F2D,100:4A2E35&height=145&section=header"/>
-
 <div align="center">
 
-![Web](https://img.shields.io/badge/WEB-2D1F2D?style=for-the-badge&logo=googlechrome&logoColor=F3D5D8)
-![Mobile](https://img.shields.io/badge/MOBILE-3A2532?style=for-the-badge&logo=android&logoColor=F3D5D8)
-![API](https://img.shields.io/badge/API-4A2E35?style=for-the-badge&logo=postman&logoColor=F3D5D8)
-![Automation](https://img.shields.io/badge/AUTOMAÇÃO-5B3740?style=for-the-badge&logo=cypress&logoColor=F3D5D8)
+### QUALITY ASSURANCE · SOFTWARE TESTING
+
+Web & Mobile (Android/iOS) · APIs · Dashboards · Automação
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2D1F2D,100:C65C8B&height=4" width="85%" alt="" />
 
 </div>
 
-<br>
+## 👩‍💻 Sobre minha atuação
 
-## 👩‍💻 Sobre mim
+Atuo em **Qualidade de Software**, com testes de aplicações Web e Mobile, APIs, dashboards e plataformas LMS.
 
-Sou profissional de **Qualidade de Software**, com atuação na validação de aplicações **Web e Mobile (Android/iOS)**, APIs, dashboards e plataformas LMS.
-
-No dia a dia, trabalho com **análise de requisitos e regras de negócio, modelagem e execução de cenários de teste, testes exploratórios e regressivos, investigação de comportamentos inesperados, registro e reteste de bugs e documentação de evidências**.
-
-Também atuo na validação de **consistência de dados, filtros, permissões, integrações e comportamentos entre diferentes plataformas**, buscando não apenas identificar defeitos, mas compreender os riscos e impactos das funcionalidades no produto.
-
-Paralelamente, venho ampliando minha atuação técnica em **automação de testes, APIs, banco de dados, CI/CD, testes de performance e Inteligência Artificial aplicada à Qualidade**.
-
----
+Meu trabalho envolve **análise de requisitos e regras de negócio, modelagem e execução de testes, investigação de defeitos e validação de dados, permissões e integrações**. Também estudo automação e outras práticas de engenharia de qualidade para complementar essa atuação.
 
 ## 🛠️ Tecnologias e ferramentas
 
-### Automação & Desenvolvimento
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,cypress,git,github,postman,docker&theme=dark&perline=7" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,cypress,git,github,postman,docker&theme=dark&perline=7" height="42" alt="JavaScript, TypeScript, Cypress, Git, GitHub, Postman e Docker" />
 </p>
 
-`Cypress` • `k6`  
-`JavaScript` • `TypeScript` • `Gherkin / BDD` • `Git` • `GitHub Actions` • `Docker`
+| Área | Ferramentas e conhecimentos |
+| :--- | :--- |
+| **Automação e desenvolvimento** | JavaScript · TypeScript · Cypress · Gherkin/BDD · k6 · Git · GitHub Actions · Docker |
+| **Mobile** | Appium · WebdriverIO · Android Studio · Xcode · TestFlight |
+| **API e dados** | Postman · Supertest · APIs REST · Testes de contrato · SQL |
+| **Ecossistema de QA** | Jira · Confluence · DevTools · Miro · Moodle/LMS · Power BI |
 
-### Mobile
+## 🔎 Minha abordagem em qualidade
 
-`Android Studio` • `Xcode` • `TestFlight` • `Appium` • `WebdriverIO`
+**Análise:** requisitos, regras de negócio, riscos e modelagem de cenários.  
+**Validação:** testes funcionais, exploratórios, regressivos e de aceitação; partição de equivalência, valor-limite e tabela de decisão.  
+**Investigação:** identificação de comportamentos inesperados, registro de bugs, retestes e documentação de evidências.
 
-### API & Dados
+## 🌱 Em evolução
 
-`Postman` • `Supertest` • `REST APIs` • `Validação de contratos` • `SQL`
+**Playwright + TypeScript** (automação Web) · Automação Mobile · SQL aplicado a testes · CI/CD · Performance · IA aplicada à Qualidade.
 
-### Ecossistema de QA
+## 🎮 Além do QA
 
-`Jira` • `Confluence` • `DevTools` • `Miro` • `Moodle / LMS` • `Power BI`
-
----
-
-## 🧪 Práticas de Qualidade
-
-`Testes Funcionais` • `Exploratórios` • `Regressão` • `Testes de Aceitação`
-
-`Análise de Requisitos` • `Regras de Negócio` • `Modelagem de Testes`
-
-`Partição de Equivalência` • `Valor Limite` • `Tabela de Decisão`
-
-`Investigação de Bugs` • `Retestes` • `Evidências` • `Consistência de Dados`
-
----
-
-## ◇ Em evolução
-
-**Playwright + TypeScript** • Automação Web  
-Automação Mobile • SQL aplicado a testes • CI/CD • Performance • IA aplicada à Qualidade
-
----
-
-## 🎮 Fora do QA
-
-Fora do universo de testes, gosto de passar o tempo entre **games, Marvel, documentários investigativos e pixel art**.
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A2E35,55:2D1F2D,100:121212&height=100&section=footer"/>
+Games, Marvel, documentários investigativos e pixel art.

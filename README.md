@@ -31,7 +31,7 @@ Paralelamente, venho ampliando minha atuação técnica em **automação de test
   <img src="https://skillicons.dev/icons?i=javascript,typescript,cypress,git,github,postman,docker&theme=dark&perline=7" />
 </p>
 
-`Cypress` • `Appium` • `WebdriverIO` • `Supertest` • `Postman` • `k6`  
+`Cypress` • `k6`  
 `JavaScript` • `TypeScript` • `Gherkin / BDD` • `Git` • `GitHub Actions` • `Docker`
 
 ### Mobile

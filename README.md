@@ -30,6 +30,7 @@ Utilizo ferramentas como Claude e Rovo para apoiar a análise de requisitos, inv
 | **Mobile** | Appium · WebdriverIO · Android Studio · Xcode · TestFlight |
 | **API e dados** | Postman · Supertest · APIs REST · Testes de contrato · SQL |
 | **Ecossistema de QA** | Jira · Confluence · DevTools · Miro · Moodle/LMS · Power BI |
+| **IA aplicada à Qualidade** | ChatGPT · Claude · Atlassian Rovo · Engenharia de Prompts · Desenvolvimento de Skills · Investigação assistida por IA |
 
 ## 🔎 Minha abordagem em qualidade
 
